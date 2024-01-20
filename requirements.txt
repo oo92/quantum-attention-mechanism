@@ -1,0 +1,12 @@
+pennylane
+qulacs-gpu
+pennylane-qulacs
+wheel
+tqdm
+matplotlib
+torch
+tensorflow
+tensorflow_datasets
+torchtext
+numpy
+seaborn
